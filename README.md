@@ -3,4 +3,4 @@ An effort to make procedurally generated human anatomy in blender using geometry
 
 A humble start:
 
-![humble_start](img\humble_start.jpg)
+![humble_start](img/humble_start.jpg)
